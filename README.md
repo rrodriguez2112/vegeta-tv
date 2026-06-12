@@ -4,12 +4,12 @@ Script en Python para el escaneo de paneles IPTV, validación de combos y gesti�
 
 El script crea automáticamente sus directorios en tu almacenamiento, los cuales son:
 
-> VΞGΞТΛ⚡₸V : Directorio principal.
-> Combos : Ubicación para colocar tus archivos de credenciales.
-> Proxies - Ubicación para tus listas de proxies (HTTP/SOCKS).
+* VΞGΞТΛ⚡₸V : Directorio principal.
+* Combos : Ubicación para colocar tus archivos de credenciales.
+* Proxies - Ubicación para tus listas de proxies (HTTP/SOCKS).
 
 # Requisitos previos
-- Python 3.6.6 o superior.
+Python 3.6.6 o superior.
 
 # Instrucciones
 
